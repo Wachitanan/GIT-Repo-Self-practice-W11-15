@@ -1,0 +1,14 @@
+week 11 
+ฝึกทำ async await ง่ายๆ
+
+week 12
+ฝึกโจทย์จาก async await แบบ advance ขึ้นมานิดหน่อย โจทย์ได้มาจาก chatgpt เพิ่มความเข้าใจในการใช้ async await
+
+week 13
+ฝึกการติดต่อจาก backend frontend โดยให้เเชทเจนโจทย์ ฝึกเขียนเหมือนใน project
+
+week 14 
+ฝึกติดต่อ backend ต่อ เพิ่มความชิน โดยโจทย์ได้มาจากเเชท โจทย์ใน week นี้เริ่ม advance ขึ้น
+
+week 15
+ฝึกโจทย์ที่ยากขึ้น โดยทำเกี่ยวกับ การ add products และราคา
